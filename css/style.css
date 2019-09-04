@@ -24,7 +24,7 @@ background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
 		bottom: 0;
 		left: 0;
 		background-repeat: repeat-x;
-		animation: moveRight 6s linear;
+		animation: moveRight 30s linear;
 	}
 
 	.car{
